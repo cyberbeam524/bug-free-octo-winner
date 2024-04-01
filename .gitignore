@@ -1,0 +1,6 @@
+# General .gitignore file
+
+*.exe
+*.env
+*.log
+_MACOSX
