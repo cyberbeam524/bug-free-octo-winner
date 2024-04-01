@@ -27,6 +27,7 @@ A fun Unity game set in a club with a wide range of music
 ## Section 2: Humanoid Rigging and Animation
 
 Rigged and Animated Characters Dancing:
+
 ![](./images/character1_dance.gif)
 
 ![](./images/character2_dancing.gif)
